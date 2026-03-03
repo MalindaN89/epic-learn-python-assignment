@@ -1,1 +1,6 @@
-
+X = 10
+Y = 20
+print("Addition of X and Y:",X+Y)
+print("Substraction of X and Y:",X-Y)
+print("Multipication of X and Y:",X*Y)
+print("Division of X by Y:", X/Y)
