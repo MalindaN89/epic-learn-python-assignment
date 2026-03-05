@@ -1,1 +1,8 @@
+x = "Python Beginner Course"
+print(x[0])
 
+print(x[21])
+
+print(x[7:15])
+print(x.upper())
+print(x.replace("Beginner","Master"))
