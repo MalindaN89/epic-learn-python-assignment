@@ -1,0 +1,5 @@
+subject_list = ["Maths","Bio","Chemistry","Physics","Commerce"]
+
+subject_list.append("Technology")
+subject_list.remove("Commerce")
+print(subject_list)
