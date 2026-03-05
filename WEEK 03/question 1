@@ -1,1 +1,7 @@
-
+marks = int(input("Enter your marks"))
+if marks>= 75:
+    print("Grdae A")
+elif marks>= 50:
+    print("Grdae B")
+else:
+    print("Fail")
