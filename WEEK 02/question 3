@@ -1,1 +1,8 @@
-
+price = 200
+quantity = 4
+total_amount = price*quantity
+if total_amount >= 700:
+        final_amount = total_amount- total_amount*10/100
+        print("Total:",final_amount)
+else:
+    print("Total:",total_amount)
