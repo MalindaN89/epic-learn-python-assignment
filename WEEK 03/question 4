@@ -1,0 +1,2 @@
+students = [{"name":"Saman", "marks":75},{"name":"Kamal", "marks":80},{"name":"Ajith", "marks":85}]
+print("\nDictionary:",students)
