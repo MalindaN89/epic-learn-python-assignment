@@ -1,0 +1,4 @@
+def square_number(num):
+                 return num**2
+results = square_number(int(input("Enter a number: ")))
+print(results)
