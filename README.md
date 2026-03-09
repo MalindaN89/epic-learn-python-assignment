@@ -13,3 +13,8 @@ __init__ constuctor to initailize name and age
 introdution() used to print the introduction message
 two objects created call as person1 and pesron2 from the class
 call method for both objects
+
+question 2
+create private variable __balance 
+add money to balance
+return current balance
