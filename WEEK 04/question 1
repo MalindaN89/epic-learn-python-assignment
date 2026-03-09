@@ -1,0 +1,13 @@
+class Person:
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
+    def introduction(self):
+        print(f"I am {self.name} and I am {self.age} years old")
+
+
+person1 = Person("Ajith", 65)
+person2 = Person("Shantha", 63)
+
+person1.introduction()
+person2.introduction()
