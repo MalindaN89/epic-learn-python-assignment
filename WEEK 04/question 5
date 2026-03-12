@@ -1,0 +1,13 @@
+class user:
+    def __init__(self,username,password):
+        self.username = username
+        self.password = password
+    def login(self):
+        if self.password == 1234:
+            print("Login successful")
+        else:
+            print("Invalid Password")
+user1 = user("Ajith",1234)
+user2 = user("Nimal", 6789)
+user1.login()
+user2.login()
