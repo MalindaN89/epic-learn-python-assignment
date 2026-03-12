@@ -18,3 +18,10 @@ question 2
 create private variable __balance 
 add money to balance
 return current balance
+
+question 3
+Parent class called Animal created
+Dog Inherit from animal
+class Dog(Animal)
+dog object create as d
+then calls the method from the Dog class
